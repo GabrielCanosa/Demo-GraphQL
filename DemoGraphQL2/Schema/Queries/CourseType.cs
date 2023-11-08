@@ -1,12 +1,7 @@
-﻿namespace DemoGraphQL2.Schema.Queries
-{
-    public enum Subject
-    {
-        Mathematics,
-        Science,
-        History
-    }
+﻿using DemoGraphQL2.Enums;
 
+namespace DemoGraphQL2.Schema.Queries
+{
     public class CourseType
     {
         public Guid Id { get; set; }

@@ -1,4 +1,5 @@
 ﻿using Bogus;
+using DemoGraphQL2.Enums;
 
 namespace DemoGraphQL2.Schema.Queries
 {

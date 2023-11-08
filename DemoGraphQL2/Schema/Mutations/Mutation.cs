@@ -1,4 +1,4 @@
-﻿using DemoGraphQL2.Schema.Queries;
+﻿using DemoGraphQL2.Enums;
 using DemoGraphQL2.Schema.Subscriptions;
 using HotChocolate.Subscriptions;
 

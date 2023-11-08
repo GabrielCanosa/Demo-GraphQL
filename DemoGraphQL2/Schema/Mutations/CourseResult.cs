@@ -1,4 +1,5 @@
-﻿using DemoGraphQL2.Schema.Queries;
+﻿using DemoGraphQL2.Enums;
+using DemoGraphQL2.Schema.Queries;
 
 namespace DemoGraphQL2.Schema.Mutations
 {
